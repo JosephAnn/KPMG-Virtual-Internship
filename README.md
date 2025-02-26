@@ -1,9 +1,17 @@
 # KPMG-AU-Data-Analytics-virtual-internship
 
-The KPMG Data Analytics Virtual Internship is designed to help us gain a practical insight into the work done at KPMG and it is an opportunity for us to build career skills and experience.
+The KPMG Data Analytics Virtual Internship is designed to help us gain a practical insight into the work done at KPMG and it is an opportunity for us to build career skills and experience.Participants will work on a fictional client project, analyzing data and providing insights to drive business decisions. The internship offers a comprehensive learning journey, covering various aspects of data analytics, including data quality assessment, exploratory data analysis, data preparation, data visualization, and presentation of findings.
 
 ## Introduction
-Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. The project is mainly divided into three tasks:
+Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. The main objectives of the virtual internship are as follows:
+
+Gain practical experience in data analysis and visualization.
+Apply data cleaning and preparation techniques to ensure data quality.
+Utilize data analytics tools and techniques for exploratory data analysis.
+Develop meaningful visualizations and dashboards to effectively communicate insights.
+Provide actionable recommendations based on the data analysis to address the client's business challenges.
+
+The project is mainly divided into three tasks:
 
 ## Task 1: Data Quality Assessment
 Assessment of data quality and completeness in preparation for analysis
