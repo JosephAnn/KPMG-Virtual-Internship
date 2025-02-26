@@ -35,3 +35,8 @@ What are the trends in the underlying data?
 Which customer segment has the highest customer value?
 What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
 What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
+
+## Acknowledgements
+I would like to express my gratitude to KPMG and Forage for providing this virtual internship opportunity and the resources necessary to enhance my data analytics skills. This internship has been a valuable learning experience, allowing me to apply theoretical knowledge to a real-world project.
+
+Please note that the datasets and project materials provided in this repository are for educational purposes only and belong to KPMG and Forage.
